@@ -4,5 +4,5 @@ This is a simple website that showcases a stopwatch created using HTML, CSS, and
 
 ## Getting Started
 
-To view the stopwatch in action, simply open the <a href="#"> file in a web browser.
+To view the stopwatch in action, simply open the <a href="https://vikas-bareth.github.io/stopWatch/"> file in a web browser.
 
